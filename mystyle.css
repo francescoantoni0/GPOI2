@@ -1,11 +1,11 @@
 body {
-    background-color: powderblue;
+    background-color: blue;
   }
   h1 {
     color: blue;
-	text-align:left;
+	text-align:center;
   }
   p {
     color: red;
-	font-size:140%;
+	font-size:100%;
   }
